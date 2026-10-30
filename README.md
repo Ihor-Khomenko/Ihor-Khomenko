@@ -12,5 +12,5 @@ QA engineer building testing tools, MCP integrations and LLM testing.
   <img src="metrics.svg" alt="GitHub activity, pull requests and languages" />
 </p>
 <p align="center">
-  <img src="metrics.habits.svg" alt="Coding habits" />
+  <img src="metrics.lines.svg" alt="Lines changed per week" />
 </p>
