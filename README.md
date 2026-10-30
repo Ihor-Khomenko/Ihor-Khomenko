@@ -1,6 +1,6 @@
 ### Hi, I'm Ihor 👋
 
-QA engineer and researcher building testing tools, MCP integrations and LLM testing.
+QA engineer building testing tools, MCP integrations and LLM testing.
 
 <p align="center">
   <img src="metrics.isocalendar.svg" alt="Isometric contribution calendar" />
